@@ -1,6 +1,6 @@
 package ru.spbstu.telematics.student_filippova.lab1;
 
-public class lab1 {//здесь будет main и демонстрация работы
+public class Lab1 {//здесь будет main и демонстрация работы
 
 	public static void main(String[] args) {
 		Matrix first = new Matrix();
@@ -8,14 +8,12 @@ public class lab1 {//здесь будет main и демонстрация работы
 		first.print();
 		System.out.println();
 		second.print();
-		int[][] res = first.add(second);
+		Matrix res = first.add(second);
 		System.out.println();
-		for (int i = 0; i < first.DIMENTION; i++){
-			for(int j = 0; j < first.DIMENTION; j++){
-				System.out.print(res[i][j] + "  ");
-			}
-			System.out.println();
-		}
+		System.out.println(first.toString());
+		System.out.println(second);
+		System.out.println(res);
+		
 	}
 
 }
