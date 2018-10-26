@@ -23,12 +23,12 @@ public class Matrix {
 	}
 	
 	
-	public Matrix(int[][] result) {
+	protected Matrix(int[][] result) {
 		// TODO Auto-generated constructor stub
 		this.array = result;
 	}
 
-
+	/*
 	public void print() {
 		for (int i = 0; i < DIMENTION; i++){
 			for(int j = 0; j < DIMENTION; j++){
@@ -37,7 +37,7 @@ public class Matrix {
 			System.out.println();
 		}
 	}
-	
+	*/
 	public Matrix add(Matrix a) {
 		int[][] result = new int[DIMENTION][DIMENTION];
 		for (int i = 0; i < DIMENTION; i++){
