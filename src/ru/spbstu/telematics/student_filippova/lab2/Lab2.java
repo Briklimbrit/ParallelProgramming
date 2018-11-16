@@ -17,6 +17,19 @@ public class Lab2 {
 		
 		stack.push(2);
 		mstack.Push("II");
+		
+		for(Integer i: stack )
+		{
+			System.out.println(i);
+		}
+		
+		for(String i: mstack )
+		{
+			System.out.println(i);
+		}
+		
+		System.out.println("Итераций до нуля чужой" + stack.search(0));
+		System.out.println("Итераций до нуля мой" + mstack.Search("0"));
 
 		System.out.println("Текущий стек: " + stack);
 		System.out.println("Удаляем: " + stack.pop());
@@ -30,6 +43,7 @@ public class Lab2 {
 		System.out.println("Удаляем: " + mstack.Pop());
 		System.out.println("Текущий стек: " + mstack);
 
+		
 	}
 
 }

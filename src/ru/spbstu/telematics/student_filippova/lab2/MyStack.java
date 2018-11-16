@@ -55,7 +55,7 @@ public class MyStack<T> implements Iterable<T> {
 		if(!Empty()) {
 			for(int i = 0; i < CountOfItems; i++) {
 				if(Items[i] == item)
-					return (CountOfItems-(i+1));
+					return (CountOfItems-(i));
 			}
 		}
 		return -1;
