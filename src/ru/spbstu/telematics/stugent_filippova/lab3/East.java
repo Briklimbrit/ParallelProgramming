@@ -1,50 +1,62 @@
 package ru.spbstu.telematics.stugent_filippova.lab3;
 
-//import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
-//import java.util.concurrent.BlockingQueue;
-//import java.util.concurrent.LinkedBlockingDeque;
-//import java.util.concurrent.LinkedBlockingQueue;
 
 
 public class East implements Runnable{
-	private boolean enterOpened = false;
-	public Queue<Visitor> enterQueue = new LinkedList<Visitor>();
-	private West west;
+	private Museum museum; //знает о музее
+	private boolean alive = true;
+
+
+	private volatile boolean enterOpened = false;//переменная о состоянии открыто\закрыто ВХОД
+	public Queue<Visitor> enterQueue = new LinkedList<Visitor>();//очередь вошедших 
+	private West west;//объект ВЫХОД
 	
-	public East(West west) {
+	public East(West west, Museum museum) {
 		this.west = west;
+		this.museum = museum;
 	}
 	
 	public void open(){
 		enterOpened = true;
 	}
-	
+	public boolean isAlive(){return alive;}
 	public void close(){
 		enterOpened = false;
 	}
 	
 	private void pass() throws InterruptedException{
-		if (!enterQueue.isEmpty()){
-			Visitor newVisitor = enterQueue.poll();
-			west.exitQueue.add(newVisitor);
-			System.out.println(newVisitor+" entered the museum");
-		}
+		//if (!enterQueue.isEmpty()){//если количество людей внутри не ноль
+			Visitor newVisitor = enterQueue.poll();//удаляем первого вошедшего
+			west.exitQueue.add(newVisitor);//отправляем его в очередь вышедших
+			System.out.println(newVisitor+" entered the museum");//такой то там вошел в музей
+		//}
 	}
 	
 	@Override
 	public void run() {
+		boolean ifOpened = false;
 		while(true){
-			if (enterOpened){
+			synchronized (museum.dummy) {
+				if (enterOpened) {
+					ifOpened = true;
+				}
+			}
+			if (ifOpened){//если вход открыт
 				try {
-					pass();
-					//Thread.sleep(1000);
+					if (enterQueue.isEmpty()){
+						System.out.println("East ended");
+						alive = false;
+						break;
+					}else {
+						pass();//запускать внутрь
+					}
+					ifOpened = false;
 				} catch (InterruptedException e) {
 					e.printStackTrace();
 				}
 			}
-			//enterQueue.take();
 		}
 	}
 	
