@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63e4ecc3-eb13-4144-a81f-71e67a72dfb2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParallelProgramming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ParallelProgramming.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/ru/spbstu/tekematics/student_filippova/lab3/example/DataProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ru/spbstu/tekematics/student_filippova/lab3/example/DataProcessor.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/ru/spbstu/tekematics/student_filippova/lab3/example/ThreadEntry$FooContainer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ru/spbstu/tekematics/student_filippova/lab3/example/ThreadEntry$FooContainer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/ru/spbstu/tekematics/student_filippova/lab3/example/ThreadEntry.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ru/spbstu/tekematics/student_filippova/lab3/example/ThreadEntry.class" afterDir="false" />
@@ -13,6 +19,9 @@
       <change beforePath="$PROJECT_DIR$/bin/ru/spbstu/telematics/student_filippova/lab2/Lab2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ru/spbstu/telematics/student_filippova/lab2/Lab2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/ru/spbstu/telematics/student_filippova/lab2/MyStack$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ru/spbstu/telematics/student_filippova/lab2/MyStack$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/ru/spbstu/telematics/student_filippova/lab2/MyStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ru/spbstu/telematics/student_filippova/lab2/MyStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ru/spbstu/telematics/student_filippova/readers_writers/ReadersAndWritersWithAtomics$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ru/spbstu/telematics/student_filippova/readers_writers/ReadersAndWritersWithAtomics$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ru/spbstu/telematics/student_filippova/readers_writers/ReadersAndWritersWithAtomics$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ru/spbstu/telematics/student_filippova/readers_writers/ReadersAndWritersWithAtomics$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ru/spbstu/telematics/student_filippova/readers_writers/ReadersAndWritersWithAtomics.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ru/spbstu/telematics/student_filippova/readers_writers/ReadersAndWritersWithAtomics.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/ru/spbstu/telematics/stugent_filippova/lab3/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ru/spbstu/telematics/stugent_filippova/lab3/Controller.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/ru/spbstu/telematics/stugent_filippova/lab3/Director.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ru/spbstu/telematics/stugent_filippova/lab3/Director.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/ru/spbstu/telematics/stugent_filippova/lab3/East.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ru/spbstu/telematics/stugent_filippova/lab3/East.class" afterDir="false" />
@@ -20,13 +29,6 @@
       <change beforePath="$PROJECT_DIR$/bin/ru/spbstu/telematics/stugent_filippova/lab3/MuseumModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ru/spbstu/telematics/stugent_filippova/lab3/MuseumModel.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/ru/spbstu/telematics/stugent_filippova/lab3/Visitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ru/spbstu/telematics/stugent_filippova/lab3/Visitor.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/ru/spbstu/telematics/stugent_filippova/lab3/West.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ru/spbstu/telematics/stugent_filippova/lab3/West.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/spbstu/telematics/stugent_filippova/lab3/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/spbstu/telematics/stugent_filippova/lab3/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/spbstu/telematics/stugent_filippova/lab3/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/spbstu/telematics/stugent_filippova/lab3/Director.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/spbstu/telematics/stugent_filippova/lab3/East.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/spbstu/telematics/stugent_filippova/lab3/East.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/spbstu/telematics/stugent_filippova/lab3/Museum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/spbstu/telematics/stugent_filippova/lab3/Museum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/spbstu/telematics/stugent_filippova/lab3/MuseumModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/spbstu/telematics/stugent_filippova/lab3/MuseumModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/spbstu/telematics/stugent_filippova/lab3/Visitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/spbstu/telematics/stugent_filippova/lab3/Visitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/spbstu/telematics/stugent_filippova/lab3/West.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/spbstu/telematics/stugent_filippova/lab3/West.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,61 +40,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/spbstu/telematics/stugent_filippova/lab3/MuseumModel.java">
+        <entry file="file://$PROJECT_DIR$/src/ru/spbstu/telematics/student_filippova/coursework/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/spbstu/telematics/stugent_filippova/lab3/East.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-221">
-              <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+            <state relative-caret-position="1088">
+              <caret line="66" column="48" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/spbstu/telematics/stugent_filippova/lab3/West.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="39" selection-start-line="39" selection-end-line="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/spbstu/telematics/stugent_filippova/lab3/Museum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/spbstu/telematics/stugent_filippova/lab3/Controller.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="581">
-              <caret line="39" column="41" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ru/spbstu/telematics/stugent_filippova/lab3/Director.java">
+        <entry file="file://$PROJECT_DIR$/src/ru/spbstu/telematics/student_filippova/coursework/Eratosfen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+            <state relative-caret-position="17">
+              <caret line="93" selection-start-line="93" selection-end-line="96" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -106,6 +72,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lenght</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -118,12 +89,14 @@
         <option value="$PROJECT_DIR$/src/ru/spbstu/telematics/stugent_filippova/lab3/Controller.java" />
         <option value="$PROJECT_DIR$/src/ru/spbstu/telematics/stugent_filippova/lab3/Museum.java" />
         <option value="$PROJECT_DIR$/src/ru/spbstu/telematics/stugent_filippova/lab3/Director.java" />
+        <option value="$PROJECT_DIR$/src/ru/spbstu/telematics/student_filippova/coursework/Main.java" />
+        <option value="$PROJECT_DIR$/src/ru/spbstu/telematics/student_filippova/coursework/Eratosfen.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="20" />
-    <option name="y" value="40" />
+    <option name="x" value="16" />
+    <option name="y" value="36" />
     <option name="width" value="2520" />
     <option name="height" value="1440" />
   </component>
@@ -133,6 +106,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,13 +130,6 @@
               <item name="ParallelProgramming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="spbstu" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ParallelProgramming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ParallelProgramming" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="spbstu" type="462c0819:PsiDirectoryNode" />
               <item name="telematics" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -179,18 +146,22 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="spbstu" type="462c0819:PsiDirectoryNode" />
               <item name="telematics" type="462c0819:PsiDirectoryNode" />
-              <item name="lab3" type="462c0819:PsiDirectoryNode" />
+              <item name="student_filippova" type="462c0819:PsiDirectoryNode" />
+              <item name="coursework" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547805575716" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551002983868" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.project" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -204,7 +175,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MuseumModel">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.spbstu.telematics.student_filippova.coursework.Main" />
+      <module name="ParallelProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.spbstu.telematics.student_filippova.coursework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MuseumModel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.spbstu.telematics.stugent_filippova.lab3.MuseumModel" />
       <module name="ParallelProgramming" />
@@ -233,6 +217,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MuseumModel" />
         <item itemvalue="Application.ReadersAndWritersWithAtomics" />
       </list>
@@ -261,23 +246,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1293" height="773" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" weight="0.2534413" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.21528472" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32997987" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.32997987" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" />
-      <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.57076204" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.3993964" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.57042253" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" weight="0.32997987" />
@@ -364,14 +348,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/spbstu/telematics/stugent_filippova/lab3/MuseumModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="306">
           <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/spbstu/telematics/stugent_filippova/lab3/East.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-221">
+        <state relative-caret-position="340">
           <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -398,24 +382,133 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/spbstu/telematics/stugent_filippova/lab3/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="581">
+        <state relative-caret-position="663">
           <caret line="39" column="41" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/spbstu/telematics/stugent_filippova/lab3/Director.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="731">
           <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/ru/spbstu/telematics/student_filippova/coursework/Main.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#822#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/ru/spbstu/telematics/student_filippova/coursework/Eratosfen.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#2917#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/spbstu/telematics/student_filippova/coursework/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="66" column="48" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/spbstu/telematics/student_filippova/coursework/Eratosfen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="93" selection-start-line="93" selection-end-line="96" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ParallelProgramming</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

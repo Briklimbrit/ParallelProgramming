@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/src/ru/spbstu/telematics/student_filippova/coursework/Eratosfen.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/ru/spbstu/telematics/student_filippova/coursework/Main.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/src/ru/spbstu/telematics/stugent_filippova/lab3/Controller.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/src/ru/spbstu/telematics/stugent_filippova/lab3/Director.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/src/ru/spbstu/telematics/stugent_filippova/lab3/East.java" charset="windows-1251" />
